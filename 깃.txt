@@ -1,0 +1,5 @@
+Git에 대한 기본 사용방법을 배움.
+Git이 무엇인가? >> git은 외부 저장소의 개념으로 생각 할 수 있다. 이를 담는 장소를 GitHub
+이를 잘 활용하기 위해서는, git desktop이라는 application을 사용하여 local에서 변경된 사항을
+local git으로 commit하고, 그것을 push하게 되면 GitHub으로 가게 된다.
+이것 또한 local에서 저장되고 local git으로 간 다음 GitHub로 가게 될 것이다.
