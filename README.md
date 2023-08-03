@@ -12,3 +12,5 @@ https://www.acmicpc.net/problem/1152
 유니티 Access GameObject components 하는법과 transform 클래스 사용법을 공부, unity script를 작성해보며 무엇에 관한 내용인지 학습하였다. 
 # 2023.07.26
 unity monobehavior 를 상속받아 쓸 수 있는 method들을 써 보며 어떤 역할을 하는지 알아보았다. 내가 쓴 스크립트가 scene에 미치는 영향을 인지하고, 게임 개발을 할 때 어떤 메서드를 사용하면 될 지 감을 잡을 수 있었다.
+# 2023.08.02
+백준 1026번을 풀었다. 두 배열의 곱이 최소가 되는 것을 구하고, 최소가 된 항목들의 합을 구하는 문제. 하나를 오름차순으로, 하나를 내림차순으로 sort해주고 풀면 되는 문제.
